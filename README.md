@@ -8,7 +8,8 @@
 * Below are some features of the data set.
 ![Ekran Görüntüsü (93)](https://github.com/VAC10/Artificial-intelligence-based-fault-detection-in-hydraulic-tanks/assets/81007065/8cddd73c-df8d-4a4e-8705-bc7fc7296246)
 
-![Ekran Görüntüsü (95)](https://github.com/VAC10/Artificial-intelligence-based-fault-detection-in-hydraulic-tanks/assets/81007065/9548f463-51c5-4a4d-b629-dbbc911bfc9b)
+![Ekran Görüntüsü (95)](https://github.com/VAC10/Artificial-intelligence-based-fault-detection-in-hydraulic-tanks/assets/81007065/2241dab7-0d98-4c91-986a-b364635a1908)
+
 
 ---
 

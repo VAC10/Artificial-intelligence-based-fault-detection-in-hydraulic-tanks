@@ -3,6 +3,8 @@
 
 ## In this project I used python libraries in general (sklearn, matplotlib, seaborn, keras, tensorflow, pandas, numpy...)
 
+![Python svg](https://github.com/VAC10/Artificial-intelligence-based-fault-detection-in-hydraulic-tanks/assets/81007065/5adda32d-9e49-43d3-9809-9b12fb85efc9)
+
 
 * my first goal in the project is to recognize and analyze the data set I have.
 * Below are some features of the data set.
